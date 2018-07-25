@@ -18,7 +18,7 @@ Maven是跨平台的项目管理工具。
 
 * 项目构建
 
-![项目构建](images/xiangmugoujian.png) 
+![项目构建](images/xiangmugongneng.png) 
 
 * 理想化的项目构建
 
